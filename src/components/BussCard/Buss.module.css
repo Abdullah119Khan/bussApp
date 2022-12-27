@@ -1,0 +1,71 @@
+.bussContainer {
+  width: 1100px;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.bussInfo {
+  width: 57%;
+  margin: auto;
+  color: #555;
+}
+
+.bussCard {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+}
+
+.singleCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  border-radius: 12px;
+  padding: 20px;
+  --webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+  box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+}
+
+.singleCard h2 {
+  margin-bottom: 10px;
+}
+
+.cardImage {
+  width: 70%;
+}
+
+.heading {
+  color: rgb(58, 134, 58);
+}
+
+.link {
+  text-decoration: none;
+  color: inherit;
+  text-align: center !important;
+}
+
+@media screen and (max-width: 768px) {
+  .bussContainer {
+    width: 70%;
+    margin: auto;
+    margin-top: 30px;
+    overflow: hidden;
+  }
+  .bussInfo {
+    width: 100%;
+    margin: auto;
+    margin: auto;
+    color: #555;
+    font-size: 12px;
+  }
+  .bussCard {
+    max-width: 600px;
+    grid-template-columns: 1fr;
+  }
+  .cardImage {
+    width: 50%;
+  }
+}

@@ -1,0 +1,13 @@
+.heroSection {
+  background: url("https://discover-dubai.ae/DynamicImages/Dubai-Bus.jpg")
+    center bottom/cover no-repeat;
+  height: 550px;
+  opacity: rgba(0, 0, 0, 0.4);
+}
+
+@media screen and (max-width: 768px) {
+  .heroSection {
+    height: 350px;
+    background-size: cover;
+  }
+}
