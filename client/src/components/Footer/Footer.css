@@ -1,0 +1,19 @@
+.backgroundColor {
+  background-color: rgb(35, 34, 34);
+  color: rgb(164, 164, 13);
+}
+
+.header {
+  border-bottom: 2px solid rgb(190, 190, 22);
+  height: 100%;
+}
+
+.container-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer {
+  flex: 1;
+}

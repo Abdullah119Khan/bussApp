@@ -1,0 +1,29 @@
+.gallery {
+  width: 70%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  text-align: left;
+  margin: auto;
+}
+
+.card,
+img {
+  width: 300px;
+  height: fit-content;
+}
+
+@media screen and (max-width: 768px) {
+  .gallery {
+    width: 60%;
+    display: grid;
+    grid-template-columns: 1fr;
+    margin: auto;
+    text-align: center;
+  }
+
+  .card,
+  img {
+    width: 200px;
+  }
+}
