@@ -5,8 +5,8 @@ const Navbar = () => {
   return (
     <nav class="navbar navbar-expand-lg bg-body-tertiary shadow">
       <div class="container-fluid mx-4">
-        <Link class="navbar-brand" to="/">
-          Buss Rental
+        <Link class="navbar-brand fw-bold" to="/">
+          RSISING SUN
         </Link>
         <button
           class="navbar-toggler"
@@ -20,7 +20,7 @@ const Navbar = () => {
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav ms-auto mb-2 mb-lg-0 font-bold">
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0 mr-5 font-bold">
             <li class="nav-item">
               <Link class="nav-link active" aria-current="page" to="/">
                 HOME
@@ -34,22 +34,22 @@ const Navbar = () => {
             <li class="nav-item dropdown">
               <Link
                 class="nav-link dropdown-toggle"
-                to="/about"
+                to="/fleet"
                 role="button"
                 data-bs-toggle="dropdown"
                 aria-expanded="false"
               >
                 FLEET
               </Link>
-              <ul class="dropdown-menu">
+              <ul class="dropdown-menu py-2">
                 <li>
-                  <Link class="dropdown-item" to="/action">
-                    Action
+                  <Link class="dropdown-item" to="/7seater">
+                    7 Seater Car Rental
                   </Link>
                 </li>
                 <li>
-                  <Link class="dropdown-item" to="/another">
-                    Another action
+                  <Link class="dropdown-item" to="/14seater">
+                    14 Seater Hiace Van
                   </Link>
                 </li>
                 <li>
@@ -57,7 +57,32 @@ const Navbar = () => {
                 </li>
                 <li>
                   <Link class="dropdown-item" to="/something">
-                    Something else here
+                    18 Seater Sprinter Luxury Van
+                  </Link>
+                </li>
+                <li>
+                  <Link class="dropdown-item" to="/something">
+                    22 Seater Coaster Van
+                  </Link>
+                </li>
+                <li>
+                  <Link class="dropdown-item" to="/something">
+                    30 Seater Bus Rental
+                  </Link>
+                </li>
+                <li>
+                  <Link class="dropdown-item" to="/something">
+                    33 Seater Luxury Bus
+                  </Link>
+                </li>
+                <li>
+                  <Link class="dropdown-item" to="/something">
+                    35 Seater Luxury Bus
+                  </Link>
+                </li>
+                <li>
+                  <Link class="dropdown-item" to="/something">
+                    50 Seater Luxury Bus
                   </Link>
                 </li>
               </ul>
@@ -67,10 +92,51 @@ const Navbar = () => {
                 RATE
               </Link>
             </li>
-            <li class="nav-item">
-              <Link class="nav-link active" aria-current="page" to="/servcies">
+            <li class="nav-item dropdown">
+              <Link
+                class="nav-link dropdown-toggle"
+                to="/about"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
                 SERVICES
               </Link>
+              <ul class="dropdown-menu py-2">
+                <li>
+                  <Link class="dropdown-item" to="/action">
+                    City Tour
+                  </Link>
+                </li>
+                <li>
+                  <Link class="dropdown-item" to="/another">
+                    Corporate Transportation
+                  </Link>
+                </li>
+                <li>
+                  <hr class="dropdown-divider" />
+                </li>
+                <li>
+                  <Link class="dropdown-item" to="/something">
+                    Luxury Bus Rental
+                  </Link>
+                </li>
+                <li>
+                  <Link class="dropdown-item" to="/something">
+                    Dubai Airport Transfer
+                  </Link>
+                </li>
+                <li>
+                  <Link class="dropdown-item" to="/something">
+                    Attraction In Dubai
+                  </Link>
+                </li>
+                <li>
+                  <Link class="dropdown-item" to="/something">
+                    School Bus Rental Service
+                  </Link>
+                </li>
+              </ul>
             </li>
             <li class="nav-item">
               <Link class="nav-link active" aria-current="page" to="/contact">

@@ -9,6 +9,8 @@ import Fleet from "./pages/Fleet/Fleet";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
+import Sevenseater from "./pages/SevenSeater/Sevenseater";
+import FourtheenSeater from "./pages/Fourtheenseater/FourtheenSeater";
 
 function App() {
   AOS.init({
@@ -22,6 +24,8 @@ function App() {
         <Route index path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="/7seater" element={<Sevenseater />} />
+        <Route path="/14seater" element={<FourtheenSeater />} />
       </Routes>
     </div>
   );

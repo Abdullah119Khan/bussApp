@@ -10,6 +10,7 @@ const Container = styled.div`
   align-items: center;
   justify-content: space-between;
   background-color: rgb(35, 34, 34);
+  margin: auto;
   color: #fff;
 
   @media screen and (max-width: 720px) {
@@ -42,10 +43,15 @@ const Center = styled.div`
   @media screen and (max-width: 720px) {
     display: flex;
     flex-direction: column;
+    background-color: lightgray;
+    color: rgb(35, 34, 34);
   } ;
 `;
 const Title = styled.h3`
   margin-bottom: 10px;
+  font-size: 26px;
+  font-weight: bold;
+  text-decoration: underline;
 `;
 
 const List = styled.ul`
@@ -70,6 +76,10 @@ const ListItem = styled.li`
 const Right = styled.div`
   flex: 1;
   padding: 20px;
+
+  @media screen and (max-width: 720px) {
+    margin-right: auto;
+  }
 `;
 
 const ContactItem = styled.div`
@@ -87,7 +97,7 @@ const Footer = () => {
   return (
     <Container>
       <Left>
-        <Logo>BUS RENTAL</Logo>
+        <Logo>RISING SUN</Logo>
         <Desc>
           Our fleet includes minibus, minivan, Toyota Coaster & Hiace for rent
           by the best prices in Dubai and all over UAE. Our bus rentals provide
