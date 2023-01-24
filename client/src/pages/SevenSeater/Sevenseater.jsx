@@ -77,7 +77,7 @@ const Sevenseater = () => {
           <div className="col-md-12">
             <div className="table-responsive">
               <table className="table table-bordered">
-                <thead className="bg-success text-white">
+                <thead className="">
                   <tr>
                     <th>Monthly Rent</th>
                     <th>Daily Rate</th>
@@ -95,7 +95,7 @@ const Sevenseater = () => {
                 </tbody>
               </table>
               <table className="table table-bordered">
-                <thead className="bg-success text-white">
+                <thead className="">
                   <tr>
                     <th>Hourly Rent</th>
                     <th>Type of Seat</th>
@@ -135,7 +135,7 @@ const Sevenseater = () => {
           <div className="col-md-12">
             <div className="table-responsive">
               <table className="table table-bordered">
-                <thead className="bg-success text-white">
+                <thead className="">
                   <tr>
                     <th>AED 400/ 114$</th>
                     <th>AED 350 / 100$</th>
@@ -161,7 +161,7 @@ const Sevenseater = () => {
                 </tbody>
               </table>
               <table className="table table-bordered">
-                <thead className="bg-success text-white">
+                <thead className="">
                   <tr>
                     <th>AED 650 / 185$</th>
                     <th>AED 750 / $-215$</th>
@@ -183,7 +183,7 @@ const Sevenseater = () => {
                 </tbody>
               </table>
               <table className="table table-bordered">
-                <thead className="bg-success text-white">
+                <thead className="">
                   <tr>
                     <th>AED 4400 / 1257$</th>
                     <th>AED 7500 / 2142$</th>
@@ -221,7 +221,7 @@ const Sevenseater = () => {
           <div className="col-md-12">
             <div className="table-responsive">
               <table className="table table-bordered">
-                <thead className="bg-success text-white">
+                <thead className="">
                   <tr>
                     <th>Type of Cars</th>
                     <th>Used for</th>
@@ -248,7 +248,7 @@ const Sevenseater = () => {
                 </tbody>
               </table>
               <table className="table table-bordered">
-                <thead className="bg-success text-white">
+                <thead className="">
                   <tr>
                     <th>Features</th>
                     <th>luggage capacity space</th>
@@ -273,6 +273,59 @@ const Sevenseater = () => {
                 </tbody>
               </table>
             </div>
+          </div>
+        </div>
+      </div>
+      <div className="container mt-5">
+        <div className="row">
+          <div className="col-md-12">
+            <h5 className="fw-bold">
+              Type Of our 7, 9, 10, 12, 13,14-15 Seater Mini bus & van services
+            </h5>
+          </div>
+        </div>
+        <div className="row">
+          <div className="col-md-12">
+            <ul className="fw-bold">
+              <li>9 seater minivan Dubai</li>
+              <li>7 Seats Rented Mini bus in UAE</li>
+              <li>7 passenger car hire with Drivers</li>
+              <li>7seater van for rent in Dubai with driver</li>
+              <li>7 seater van rental dubai</li>
+              <li>6 seater van rental Abu Dhabi</li>
+              <li>7 seater car rental dubai</li>
+              <li>10 Passengers van rental Abu Dhabi</li>
+              <li>7 people – Mini van rental dubai airport</li>
+              <li>9 seater van rental dubai</li>
+              <li>7 seats taxi car for rent</li>
+            </ul>
+          </div>
+        </div>
+        <div className="row mt-2">
+          <div className="col-md-12">
+            <span>
+              We offer a 7 seater Van rental with drivers in and around Dubai
+              and Abu Dhabi. The larger the group, the cheaper per head it gets.
+              Our standard car seat 6 persons, but we can provide you with a
+              7-seater if this is your requirement. We have a medium size
+              luggage van which can accommodate up to 7 passengers. If your
+              group is larger than 7 persons or if your luggage takes up more
+              than 4 medium size bags, we recommend hiring Mini size vehicles.
+            </span>
+          </div>
+        </div>
+        <div className="row mt-4">
+          <div className="col-md-12">
+            <span>
+              Rent a car with Driver offers the cheapest rates on all sizes of
+              Vans in Dubai and Abu Dhabi. We offer medium, large and extra
+              large vans for different travel needs. If you are looking to
+              travel in style our drivers will take care of you and drive you in
+              luxury. Renting a luxury car with driver is the best way to
+              explore the sights of Dubai. Although, our standard Van can seat 6
+              people comfortably we recommend hiring mini sized van for 3 – 5
+              person travel and medium van for 6 – 8 persons travel.
+            </span>
           </div>
         </div>
       </div>

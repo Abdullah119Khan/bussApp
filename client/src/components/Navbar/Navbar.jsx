@@ -56,12 +56,12 @@ const Navbar = () => {
                   <hr class="dropdown-divider" />
                 </li>
                 <li>
-                  <Link class="dropdown-item" to="/something">
+                  <Link class="dropdown-item" to="/18seater">
                     18 Seater Sprinter Luxury Van
                   </Link>
                 </li>
                 <li>
-                  <Link class="dropdown-item" to="/something">
+                  <Link class="dropdown-item" to="/22seater">
                     22 Seater Coaster Van
                   </Link>
                 </li>
