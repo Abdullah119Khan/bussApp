@@ -72,36 +72,36 @@ const FourtheenSeater = () => {
               <table className="table table-bordered">
                 <thead className="">
                   <tr>
-                    <th>Monthly Rent</th>
-                    <th>Daily Rate</th>
-                    <th>Airport Transfer</th>
-                    <th>Weekly Rent</th>
+                    <th className="p-4">Monthly Rent</th>
+                    <th className="p-4">Daily Rate</th>
+                    <th className="p-4">Airport Transfer</th>
+                    <th className="p-4">Weekly Rent</th>
                   </tr>
                 </thead>
                 <tbody>
                   <tr>
-                    <td> AED 7500-11000 26-days</td>
-                    <td> AED 850/500 – 10/5 Hours Per day</td>
-                    <td> AED 400 included Airport Parking</td>
-                    <td>AED 4500 Per week 6-days</td>
+                    <td className="p-4"> AED 7500-11000 26-days</td>
+                    <td className="p-4"> AED 850/500 – 10/5 Hours Per day</td>
+                    <td className="p-4"> AED 400 included Airport Parking</td>
+                    <td className="p-4">AED 4500 Per week 6-days</td>
                   </tr>
                 </tbody>
               </table>
               <table className="table table-bordered">
                 <thead className="">
                   <tr>
-                    <th>Hourly Rent</th>
-                    <th>Type of Van</th>
-                    <th>The Usage</th>
+                    <th className="p-4">Hourly Rent</th>
+                    <th className="p-4">Type of Van</th>
+                    <th className="p-4">The Usage</th>
                   </tr>
                 </thead>
                 <tbody>
                   <tr>
-                    <td> AED 80- Minimum 5 hours</td>
-                    <td>
+                    <td className="p-4"> AED 80- Minimum 5 hours</td>
+                    <td className="p-4">
                       10-Seater/ 12-Seats/ 13-seats / 14 & 15 Seater Hiace
                     </td>
-                    <td>
+                    <td className="p-4">
                       Airport Transfer, Tourist Transportation, Staff Pick and
                       Drop, Hotel, Parties Shuttle, Events Charter,
                       Sight-seeing, Group of passengers outing, Friends & Family
@@ -128,23 +128,23 @@ const FourtheenSeater = () => {
               <table className="table table-bordered">
                 <thead className="">
                   <tr>
-                    <th>AED 400/ 114$</th>
-                    <th>AED 350 / 100$</th>
-                    <th>AED 500 / 143$</th>
+                    <th className="p-4">AED 400/ 114$</th>
+                    <th className="p-4">AED 350 / 100$</th>
+                    <th className="p-4">AED 500 / 143$</th>
                   </tr>
                 </thead>
                 <tbody>
                   <tr>
-                    <td>
+                    <td className="p-4">
                       Arrival One-way Transfer / included Airport Parking &
                       Driver fuel salik{" "}
                     </td>
-                    <td>
+                    <td className="p-4">
                       {" "}
                       Departures One-way Transfer Hotel To Airport Transfer//
                       included Driver fuel salik{" "}
                     </td>
-                    <td>
+                    <td className="p-4">
                       5 hours per Day / City Tour Within City Only // included
                       Driver fuel salik{" "}
                     </td>
@@ -154,44 +154,46 @@ const FourtheenSeater = () => {
               <table className="table table-bordered">
                 <thead className="">
                   <tr>
-                    <th>AED 700 / 200$</th>
-                    <th>AED 850 / 243$</th>
-                    <th>AED 70 / 20$</th>
+                    <th className="p-4">AED 700 / 200$</th>
+                    <th className="p-4">AED 850 / 243$</th>
+                    <th className="p-4">AED 70 / 20$</th>
                   </tr>
                 </thead>
                 <tbody>
                   <tr>
-                    <td>
+                    <td className="p-4">
                       10 hours per Day / City Tour Within City Only/ included
                       Driver fuel salik
                     </td>
-                    <td>
+                    <td className="p-4">
                       10 hours per Day / City Tour Out of Town Dubai to Abu
                       dhabi / included Driver fuel salik
                     </td>
-                    <td>Additional Per Hour Charges Extra Hours Each</td>
+                    <td className="p-4">
+                      Additional Per Hour Charges Extra Hours Each
+                    </td>
                   </tr>
                 </tbody>
               </table>
               <table className="table table-bordered">
                 <thead className="">
                   <tr>
-                    <th>AED 4400 / 1257$</th>
-                    <th>AED 7500 / 2142$</th>
-                    <th>AED 02 / 0.60$</th>
+                    <th className="p-4">AED 4400 / 1257$</th>
+                    <th className="p-4">AED 7500 / 2142$</th>
+                    <th className="p-4">AED 02 / 0.60$</th>
                   </tr>
                 </thead>
                 <tbody>
                   <tr>
-                    <td>
+                    <td className="p-4">
                       Weekly Rental/ 10 hours Daily / City Tour Within City
                       Only/ included Driver fuel salik
                     </td>
-                    <td>
+                    <td className="p-4">
                       Monthly Rental/ 2-way Transfer Daily / 6-days a week
                       5000KM /Not included fuel salik
                     </td>
-                    <td>
+                    <td className="p-4">
                       Per Kilometer More Than 5000km on monthly basis Each KM
                       charges
                     </td>
@@ -216,49 +218,53 @@ const FourtheenSeater = () => {
               <table className="table table-bordered">
                 <thead className="">
                   <tr>
-                    <th>Type of Vans</th>
-                    <th>Used for</th>
-                    <th>Brands and Made</th>
-                    <th>Capacity of Van</th>
+                    <th className="p-4">Type of Vans</th>
+                    <th className="p-4">Used for</th>
+                    <th className="p-4">Brands and Made</th>
+                    <th className="p-4">Capacity of Van</th>
                   </tr>
                 </thead>
                 <tbody>
                   <tr>
-                    <td>13 & 14 Seater Toyota Hiace Mini Van</td>
-                    <td>
+                    <td className="p-4">
+                      13 & 14 Seater Toyota Hiace Mini Van
+                    </td>
+                    <td className="p-4">
                       Crow Staff School Transport Dubai, Tourism, Tourist City
                       Tour Dubai, wedding Party bus Event Transportation, Hotel
                       Transfer dubai Abu Dhabi, Sight-seeing sharjah & Dubai
                       Airport Transfer in UAE are some of the most demanded
                       services offered by royal rider bus rental dubai
                     </td>
-                    <td>
+                    <td className="p-4">
                       JAPAN – low roof van Toyota Hiace High roof – mid roof
                       Hiace
                     </td>
-                    <td>12-seater / 13-Seater/ 14 Seat /and 15 Seats Vans</td>
+                    <td className="p-4">
+                      12-seater / 13-Seater/ 14 Seat /and 15 Seats Vans
+                    </td>
                   </tr>
                 </tbody>
               </table>
               <table className="table table-bordered">
                 <thead className="">
                   <tr>
-                    <th>Features</th>
-                    <th>luggage capacity space</th>
-                    <th>Type of Fuel</th>
-                    <th>Numbers of Doors</th>
+                    <th className="p-4">Features</th>
+                    <th className="p-4">luggage capacity space</th>
+                    <th className="p-4">Type of Fuel</th>
+                    <th className="p-4">Numbers of Doors</th>
                   </tr>
                 </thead>
                 <tbody>
                   <tr>
-                    <td>
+                    <td className="p-4">
                       provisional chauffeur drivers, very Clean from out and
                       Inside Van Spacious inside, compatible clean seats , seat
                       belts , Microphone, FM radio, AUX
                     </td>
-                    <td>9 Normal bags with 9 Passengers</td>
-                    <td>2,700 cc petrol engine</td>
-                    <td>
+                    <td className="p-4">9 Normal bags with 9 Passengers</td>
+                    <td className="p-4">2,700 cc petrol engine</td>
+                    <td className="p-4">
                       Two front doors/ one passenger’s Door- total numbers of
                       doors are 3
                     </td>

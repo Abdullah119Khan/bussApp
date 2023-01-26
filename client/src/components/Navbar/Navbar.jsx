@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import { Link } from "react-router-dom";
 
 const Navbar = () => {
@@ -66,22 +66,22 @@ const Navbar = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link class="dropdown-item" to="/something">
+                  <Link class="dropdown-item" to="/30seater">
                     30 Seater Bus Rental
                   </Link>
                 </li>
                 <li>
-                  <Link class="dropdown-item" to="/something">
+                  <Link class="dropdown-item" to="/33seater">
                     33 Seater Luxury Bus
                   </Link>
                 </li>
                 <li>
-                  <Link class="dropdown-item" to="/something">
+                  <Link class="dropdown-item" to="/35seater">
                     35 Seater Luxury Bus
                   </Link>
                 </li>
                 <li>
-                  <Link class="dropdown-item" to="/something">
+                  <Link class="dropdown-item" to="/50seater">
                     50 Seater Luxury Bus
                   </Link>
                 </li>
@@ -104,12 +104,12 @@ const Navbar = () => {
               </Link>
               <ul class="dropdown-menu py-2">
                 <li>
-                  <Link class="dropdown-item" to="/action">
+                  <Link class="dropdown-item" to="/citytour">
                     City Tour
                   </Link>
                 </li>
                 <li>
-                  <Link class="dropdown-item" to="/another">
+                  <Link class="dropdown-item" to="/corporate">
                     Corporate Transportation
                   </Link>
                 </li>
@@ -117,7 +117,7 @@ const Navbar = () => {
                   <hr class="dropdown-divider" />
                 </li>
                 <li>
-                  <Link class="dropdown-item" to="/something">
+                  <Link class="dropdown-item" to="/">
                     Luxury Bus Rental
                   </Link>
                 </li>

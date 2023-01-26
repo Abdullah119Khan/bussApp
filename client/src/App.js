@@ -5,14 +5,21 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import About from "./pages/About/About";
 import Contact from "./pages/Contact/Contact";
-import Fleet from "./pages/Fleet/Fleet";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
+
 import Sevenseater from "./pages/SevenSeater/Sevenseater";
 import FourtheenSeater from "./pages/Fourtheenseater/FourtheenSeater";
 import EitheenSeater from "./pages/Eitheenseater/EitheenSeater";
 import TwentytwoSeater from "./pages/TwetytwoSeater/TwentytwoSeater";
+import ThirtySeater from "./pages/ThirtySeater/ThirtySeater";
+import ThirtyThreeSeater from "./pages/ThirtyThreeSeater/ThirtyThreeSeater";
+import ThirtyFiveSeater from "./pages/ThirtyFiveSeater/ThirtyFiveSeater";
+import FiftySeater from "./pages/FiftySeater/FiftySeater";
+import Rates from "./pages/Rates/Rates";
+import CityTour from "./pages/CityTour/CityTour";
+import CorporateTranfer from "./pages/CorporationTransfor/CorporateTranfer";
 
 function App() {
   AOS.init({
@@ -30,6 +37,13 @@ function App() {
         <Route path="/14seater" element={<FourtheenSeater />} />
         <Route path="/18seater" element={<EitheenSeater />} />
         <Route path="/22seater" element={<TwentytwoSeater />} />
+        <Route path="/30seater" element={<ThirtySeater />} />
+        <Route path="/33seater" element={<ThirtyThreeSeater />} />
+        <Route path="/35seater" element={<ThirtyFiveSeater />} />
+        <Route path="/50seater" element={<FiftySeater />} />
+        <Route path="/rate" element={<Rates />} />
+        <Route path="/citytour" element={<CityTour />} />
+        <Route path="/corporate" element={<CorporateTranfer />} />
       </Routes>
     </div>
   );

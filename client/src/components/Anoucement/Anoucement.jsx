@@ -30,10 +30,10 @@ const Anoucement = () => {
   return (
     <Container>
       <Contact>
-        <AiFillPhone size={20} /> +923449677369
+        <AiFillPhone size={20} /> +971 52 122 0414
       </Contact>
       <Contact>
-        <AiTwotoneMail size={20} /> abdullah.khan@genesisengr.com
+        <AiTwotoneMail size={20} /> risingsuntravels329@gmail.com
       </Contact>
     </Container>
   );
