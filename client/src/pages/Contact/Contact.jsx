@@ -1,7 +1,12 @@
 import React from "react";
+import Anoucement from "../../components/Anoucement/Anoucement";
 
 const Contact = () => {
-  return <div>Contact</div>;
+  return (
+    <div>
+      <Anoucement />
+    </div>
+  );
 };
 
 export default Contact;
