@@ -277,7 +277,7 @@ const EitheenSeater = () => {
         <div className="row">
           <div className="col-md-12">
             <span>
-              RS Van Rental Dubai, A fleet of fully insured and registered
+              RC Van Rental Dubai, A fleet of fully insured and registered
               Minivans on the road ready to serve all your transportation needs,
               Van Rental Dubai is a service that empowers individuals to become
               entrepreneurs. We provide Minivans which we maintain at 5-star

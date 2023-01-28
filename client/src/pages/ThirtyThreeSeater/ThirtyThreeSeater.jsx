@@ -328,14 +328,14 @@ const ThirtyThreeSeater = () => {
         <div className="row">
           <div className="col-md-12">
             <h5 className="fw-bold">
-              Rent a Bus Dubai – Royal Rider Rent A Car
+              Rent a Bus Dubai – Royal Crown Rent A Car
             </h5>
           </div>
         </div>
         <div className="row">
           <div className="col-md-12">
             <span>
-              As one of the best Royal Rider Bus Rental Dubai gives you the
+              As one of the best Royal Crown Bus Rental Dubai gives you the
               luxury, comfort and convenience of traveling on our buses. We
               provide air-conditioned buses with modern facilities to all our
               guests. We also offer airport transfers to and from our guests.

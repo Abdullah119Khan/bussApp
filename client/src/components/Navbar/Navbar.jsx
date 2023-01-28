@@ -6,7 +6,7 @@ const Navbar = () => {
     <nav class="navbar navbar-expand-lg bg-body-tertiary shadow">
       <div class="container-fluid mx-4">
         <Link class="navbar-brand fw-bold" to="/">
-          RSISING SUN
+          ROYAL CROWN
         </Link>
         <button
           class="navbar-toggler"
@@ -122,17 +122,17 @@ const Navbar = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link class="dropdown-item" to="/something">
+                  <Link class="dropdown-item" to="/dubaiairporttransfer">
                     Dubai Airport Transfer
                   </Link>
                 </li>
                 <li>
-                  <Link class="dropdown-item" to="/something">
+                  <Link class="dropdown-item" to="/attractionindubai">
                     Attraction In Dubai
                   </Link>
                 </li>
                 <li>
-                  <Link class="dropdown-item" to="/something">
+                  <Link class="dropdown-item" to="/schoolbus">
                     School Bus Rental Service
                   </Link>
                 </li>

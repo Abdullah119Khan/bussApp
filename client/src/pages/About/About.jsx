@@ -15,17 +15,17 @@ const About = () => {
           <div className="row">
             <div className="col-md-10 mt-5 m-auto">
               <h5 className="text-center text-black fw-bold">
-                ABOUT RISING SUN & PASSENGER TRANSPORT{" "}
+                ABOUT Royal Crown & PASSENGER TRANSPORT{" "}
               </h5>
             </div>
           </div>
           <div className="row">
             <div className="col-md-10 mt-4 m-auto">
               <p className="text-left text-black ">
-                Welcome to Dubai Rising Sun Passenger Transport Bus Rental Dubai
-                ! About Us Our family-owned bus rental Company business has been
-                around for 10 years and we are proud to serve thousands of
-                nearby customers over the years.
+                Welcome to Dubai Royal Crown Passenger Transport Bus Rental
+                Dubai ! About Us Our family-owned bus rental Company business
+                has been around for 10 years and we are proud to serve thousands
+                of nearby customers over the years.
               </p>
             </div>
           </div>
@@ -79,7 +79,7 @@ const About = () => {
           <div className="row">
             <div className="col-md-10 mt-1 m-auto">
               <p className="text-left text-black ">
-                Rising Sun Passenger Transport by Rented Buses LLC is a fully
+                Royal Crown Passenger Transport by Rented Buses LLC is a fully
                 certified company managed and operated by highly trained staff
                 and drivers, offering one of two options to customers across
                 Dubai / Sharjah Abu Dhabi / United Arab Emirates.
@@ -89,7 +89,7 @@ const About = () => {
           <div className="row">
             <div className="col-md-10 mt-3 m-auto">
               <h4 className="text-center text-primary ">
-                All about Rising Sun bus rental dubai
+                All about Royal Crown bus rental dubai
               </h4>
             </div>
           </div>
@@ -104,22 +104,22 @@ const About = () => {
               <span className="mb-3">
                 If you need a coach or coach for weddings, birthday parties,
                 fashion shows and other occasions, it’s best to start with a
-                Rising Sun in Dubai. Don’t miss the once-in-a-lifetime offer!
+                Royal Crown in Dubai. Don’t miss the once-in-a-lifetime offer!
               </span>
               <br />
               <br />
               <span className="">
                 When someone has never heard of a Dubai bus rental company or
                 company and wants to rent a bus in Dubai, especially when they
-                already use the Rising Sun Bus Rental Service in Dubai I’m
+                already use the Royal Crown Bus Rental Service in Dubai I’m
                 always surprised when I’m there. That means only one thing-this
-                person has never used a Rising Sun bus rental, sorry to
+                person has never used a Royal Crown bus rental, sorry to
                 disappoint you, but you are missing the best deal in your life!
                 Yes, the offer may sound too good to be true, but it’s true, not
                 fraud.
               </span>
               <span className="">
-                Rising Sun Bus Rental Dubai is one of the fastest growing and
+                Royal Crown Bus Rental Dubai is one of the fastest growing and
                 most popular bus charter companies in the United Arab Emirates.
                 We offer a wide range of luxury buses, coaches and vans with a
                 full range of drivers. There are numerous
@@ -156,7 +156,7 @@ const About = () => {
           <div className="row">
             <div className="col-md-10 mt-4 m-auto">
               <h4 className="text-center text-primary">
-                Why you should choose Rising Sun as your partner
+                Why you should choose Royal Crown as your partner
               </h4>
             </div>
           </div>
@@ -168,8 +168,8 @@ const About = () => {
                 mini-buses. We believe in our country’s ability to provide a
                 variety of holiday packages that will surpass all your
                 expectations. We can get you there with utmost comfort and
-                convenience. Our staff at Rising Sun is experienced, trained and
-                competent enough to get you where you want to go with 100%
+                convenience. Our staff at Royal Crown is experienced, trained
+                and competent enough to get you where you want to go with 100%
                 safety! With us, you don’t just hire a coach – you are hiring an
                 experience!
               </span>
@@ -187,14 +187,14 @@ const About = () => {
           <div className="row">
             <div className="col-md-10 mt-4 m-auto">
               <span className="text-left text-black">
-                Rising Sun Dubai Buss Rentals is a proud Dubai entity whose
+                Royal Crown Dubai Buss Rentals is a proud Dubai entity whose
                 owners believe in their country’s ability to provide a variety
                 of Dubai holiday packages that will surpass all your
                 expectations, tour operators are in dire need of buses, or you
-                can rent one for yourself. Whatever your preference, Rising Sun
+                can rent one for yourself. Whatever your preference, Royal Crown
                 Bus Rental Dubai has got you covered and offers a wide range of
                 vehicles and luxury buses fit for Risingty. Add it all up, and
-                Rising Sun Bus Rental is an ideal way to travel comfortably
+                Royal Crown Bus Rental is an ideal way to travel comfortably
                 around Dubai for business or pleasure, especially if you want to
                 experience all there is to offer. Choose from a variety of
                 touring itineraries designed by expert local tour guides who
@@ -223,7 +223,7 @@ const About = () => {
                 exciting places in UAE then we are here for you all year round.
                 After all vacations make life worth living, and is a celebration
                 at its peak when you can go on vacation without having to worry
-                about transportation and tour at all. With Rising Sun bus
+                about transportation and tour at all. With Royal Crown bus
                 rentals services available everywhere for cheap holidays getaway
                 then there is nothing left for you but to just relax.
               </span>
@@ -245,12 +245,12 @@ const About = () => {
                 customers with efficient, safe and comfortable transportation
                 from point A to point B in Dubai. To achieve such objective, we
                 are constantly engaged in exploration and innovation of modern
-                ways of effective transport system design. Rising Sun Bus
+                ways of effective transport system design. Royal Crown Bus
                 Rentals owns one of the best fleets that include mini buses,
                 coach buses, executive cars, limousines and shuttles; all
                 available for rent at affordable prices. We also provide
                 exclusive packages for both individuals and groups having
-                options to choose luxury or budget friendly options. Rising Sun
+                options to choose luxury or budget friendly options. Royal Crown
                 Bus Rental Dubai provides a variety of services. we offer:
                 Transportation for Privet Tours, Weddings and Events, Airport
                 Transfers and so much more. Contact us today to learn more about
@@ -272,7 +272,7 @@ const About = () => {
               <span className="text-left text-black">
                 The first step in planning a great Dubai holiday package is
                 thinking about what you want to do while you’re here. The next
-                step is knowing where to look! Rising Sun Bus Rental Dubai
+                step is knowing where to look! Royal Crown Bus Rental Dubai
                 provides an extensive list of hotels, tours, activities and
                 attractions that can be tailored to suit your individual needs.
                 Our most recent tourists have praised our service for its

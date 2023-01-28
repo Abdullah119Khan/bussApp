@@ -99,13 +99,14 @@ const CorporateTranfer = () => {
           <div className="row">
             <div className="col-md-10 m-auto">
               <span>
-                Royal Passenger Transport Rental is known as the leading rental
-                bus company and passenger transport provider in Dubai, Abu Dhabi
-                and Sharjah, UAE. The company is known for its top-class Bus
-                transportation services in Sharjah. We are well known to our
-                clients for providing excellent buses/Minivans/Coaches with
-                drivers & conductors to various industries like Schools,
-                universities, factories, industrial areas, and labor camps.
+                Royal Crown Passenger Transport Rental is known as the leading
+                rental bus company and passenger transport provider in Dubai,
+                Abu Dhabi and Sharjah, UAE. The company is known for its
+                top-class Bus transportation services in Sharjah. We are well
+                known to our clients for providing excellent
+                buses/Minivans/Coaches with drivers & conductors to various
+                industries like Schools, universities, factories, industrial
+                areas, and labor camps.
               </span>
             </div>
           </div>
@@ -114,7 +115,7 @@ const CorporateTranfer = () => {
               <span>
                 Our exclusive charter bus rentals and luxury shuttle services in
                 Dubai, Abu Dhabi & Sharjah, UAE have been providing the finest
-                transportation for businesses and leisure. Royal Passenger
+                transportation for businesses and leisure. Royal Crown Passenger
                 Transportation has earned a reputation for hiring new and
                 pre-owned vehicles and providing prompt transport from the
                 Airport to anywhere in Dubai. Luxury coaches provide safe
@@ -443,12 +444,13 @@ const CorporateTranfer = () => {
           <div className="row">
             <div className="col-md-10 mt-3 m-auto">
               <span>
-                Welcome to Royal Passengers Transport Rental Company! We are
-                ready to answer all your questions regarding bus rental in dubai
-                bus rental in sharjah bus rentals in abu dhabi van rental rent a
-                bus party bus rental and, additionally, provide the relevant
-                tourist information about the COVID-19 situation in Dubai,
-                tourist attractions in Dubai or just give you some useful tips.
+                Welcome to Royal Crown Passengers Transport Rental Company! We
+                are ready to answer all your questions regarding bus rental in
+                dubai bus rental in sharjah bus rentals in abu dhabi van rental
+                rent a bus party bus rental and, additionally, provide the
+                relevant tourist information about the COVID-19 situation in
+                Dubai, tourist attractions in Dubai or just give you some useful
+                tips.
               </span>
             </div>
           </div>

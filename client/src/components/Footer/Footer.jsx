@@ -97,7 +97,7 @@ const Footer = () => {
   return (
     <Container>
       <Left>
-        <Logo>RISING SUN</Logo>
+        <Logo>ROYAL CROWN</Logo>
         <Desc>
           Our fleet includes minibus, minivan, Toyota Coaster & Hiace for rent
           by the best prices in Dubai and all over UAE. Our bus rentals provide

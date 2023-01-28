@@ -20,6 +20,9 @@ import FiftySeater from "./pages/FiftySeater/FiftySeater";
 import Rates from "./pages/Rates/Rates";
 import CityTour from "./pages/CityTour/CityTour";
 import CorporateTranfer from "./pages/CorporationTransfor/CorporateTranfer";
+import DubaiAirportTransfer from "./pages/DubaiAirportTransfer/DubaiAirportTransfer";
+import AttractionDubai from "./pages/AttractionDubai/AttractionDubai";
+import SchoolBus from "./pages/SchoolBus/SchoolBus";
 
 function App() {
   AOS.init({
@@ -44,6 +47,12 @@ function App() {
         <Route path="/rate" element={<Rates />} />
         <Route path="/citytour" element={<CityTour />} />
         <Route path="/corporate" element={<CorporateTranfer />} />
+        <Route
+          path="/dubaiairporttransfer"
+          element={<DubaiAirportTransfer />}
+        />
+        <Route path="/attractionindubai" element={<AttractionDubai />} />
+        <Route path="/schoolbus" element={<SchoolBus />} />
       </Routes>
     </div>
   );

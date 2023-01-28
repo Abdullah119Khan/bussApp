@@ -1,0 +1,10 @@
+.container-1 {
+  background: url("https://discover-dubai.ae/DynamicImages/Dubai-Bus.jpg")
+    center bottom/cover no-repeat;
+  height: 500px;
+  width: 80%;
+  margin: auto;
+  margin-top: 60px;
+  opacity: rgba(0, 0, 0, 0.4);
+  margin-bottom: 40px;
+}
