@@ -23,6 +23,7 @@ import CorporateTranfer from "./pages/CorporationTransfor/CorporateTranfer";
 import DubaiAirportTransfer from "./pages/DubaiAirportTransfer/DubaiAirportTransfer";
 import AttractionDubai from "./pages/AttractionDubai/AttractionDubai";
 import SchoolBus from "./pages/SchoolBus/SchoolBus";
+import WhatsApp from "./components/WhatsIcon/WhatsApp";
 
 function App() {
   AOS.init({
@@ -32,6 +33,7 @@ function App() {
 
   return (
     <div>
+      <WhatsApp />
       <Routes>
         <Route index path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
