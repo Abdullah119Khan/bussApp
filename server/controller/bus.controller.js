@@ -2,7 +2,7 @@ const BusModel = require("../model/bus.model");
 
 exports.getBuss = async (req, res) => {
   try {
-    const getAllBuss = await BusModel.find();
+    const getAllBuss = await BusModel.find().sort({ _id: -1 }).limit(5);
     return res.status(200).json(getAllBuss);
   } catch (err) {
     return res.status(500).json(err);

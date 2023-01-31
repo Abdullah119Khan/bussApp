@@ -123,22 +123,24 @@ const Footer = () => {
       <Right>
         <Title>Contact</Title>
         <ContactItem>
-          <ImLocation style={{ marginRight: "10px" }} /> UAE Swat
+          <ImLocation style={{ marginRight: "10px" }} /> Duabi
         </ContactItem>
         <ContactItem>
-          <MdPhoneAndroid style={{ marginRight: "10px" }} /> +9234296669617
+          <MdPhoneAndroid style={{ marginRight: "10px" }} /> +971521220414
         </ContactItem>
         <ContactItem>
-          <AiOutlineMail style={{ marginRight: "10px" }} /> kab6611@gmail.com
+          <AiOutlineMail style={{ marginRight: "10px" }} />{" "}
+          risingsuntravels329@gmail.com
         </ContactItem>
         <ContactItem>
-          <ImLocation style={{ marginRight: "10px" }} /> UAE Swat
+          <ImLocation style={{ marginRight: "10px" }} /> Dubai
         </ContactItem>
         <ContactItem>
-          <MdPhoneAndroid style={{ marginRight: "10px" }} /> +9234296669617
+          <MdPhoneAndroid style={{ marginRight: "10px" }} /> +971521220414
         </ContactItem>
         <ContactItem>
-          <AiOutlineMail style={{ marginRight: "10px" }} /> kab6611@gmail.com
+          <AiOutlineMail style={{ marginRight: "10px" }} />{" "}
+          risingsuntravels329@gmail.com
         </ContactItem>
       </Right>
     </Container>

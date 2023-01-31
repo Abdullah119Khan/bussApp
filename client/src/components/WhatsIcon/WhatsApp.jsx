@@ -1,6 +1,5 @@
 import React from "react";
 import { BsWhatsapp } from "react-icons/bs";
-import { Link } from "react-router-dom";
 import styled from "styled-components";
 
 const Container = styled.div`
@@ -35,7 +34,7 @@ const WhatsApp = () => {
   return (
     <Container>
       <Wrapper>
-        <Anchor href="https://wa.me/00971521220414">
+        <Anchor href="https://wa.me/+971521220414">
           <BsWhatsapp size={35} />
         </Anchor>
       </Wrapper>
