@@ -6,7 +6,7 @@ const Navbar = () => {
     <nav class="navbar navbar-expand-lg bg-body-tertiary shadow">
       <div class="container-fluid mx-4">
         <Link class="navbar-brand fw-bold" to="/">
-          ROYAL CROWN
+          RISING SUN
         </Link>
         <button
           class="navbar-toggler"

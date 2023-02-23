@@ -7,7 +7,7 @@ const BussCard = () => {
     <div className={styles.bussContainer}>
       <div className={styles.bussInfo}>
         <h1 data-aos="fade-down" data-aos-delay="500">
-          Welcome to Royal Crown Bus Rental Dubai Tour & Travel Transportation
+          Welcome to Rising Sun Bus Rental Dubai Tour & Travel Transportation
           Company LLC
         </h1>
       </div>

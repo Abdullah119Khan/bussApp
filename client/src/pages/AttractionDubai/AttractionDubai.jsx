@@ -349,7 +349,7 @@ const AttractionDubai = () => {
         <div className="row mt-4">
           <div className="col-md-10 m-auto">
             <span>
-              Thus, welcome to Royal Crown Passengers Transport Rental Company!
+              Thus, welcome to Rising Sun Passengers Transport Rental Company!
               We are ready to answer all your questions and, additionally,
               provide the relevant tourist information about the COVID-19
               situation in Dubai, tourist attractions in Dubai or just give you

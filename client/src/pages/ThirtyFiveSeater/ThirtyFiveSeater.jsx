@@ -328,7 +328,7 @@ const ThirtyFiveSeater = () => {
         <div className="row">
           <div className="col-md-12">
             <span>
-              Royal Rider Bus Rental Dubai offering best bus hiring services in
+              Rising Rider Bus Rental Dubai offering best bus hiring services in
               Dubai by a team of professional, dedicated and experienced staff
               for your holiday tour and trip. Whether you’re looking for a
               classic bus or minibus, we have them all, from big to small. You

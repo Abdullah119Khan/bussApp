@@ -304,7 +304,7 @@ const ThirtySeater = () => {
         <div className="row">
           <div className="col-md-10">
             <span>
-              Royal Crown Bus Rental Dubai offers you the most suitable and
+              Rising Sun Bus Rental Dubai offers you the most suitable and
               cost-effective way for your travel needs. Whether for pleasure
               trips, vacations, or business meetings, you can ride in a 30
               seater bus mini van at very affordable bus rates. We also take

@@ -97,7 +97,7 @@ const Footer = () => {
   return (
     <Container>
       <Left>
-        <Logo>ROYAL CROWN</Logo>
+        <Logo>RISING SUN</Logo>
         <Desc>
           Our fleet includes minibus, minivan, Toyota Coaster & Hiace for rent
           by the best prices in Dubai and all over UAE. Our bus rentals provide
@@ -123,7 +123,7 @@ const Footer = () => {
       <Right>
         <Title>Contact</Title>
         <ContactItem>
-          <ImLocation style={{ marginRight: "10px" }} /> Duabi
+          <ImLocation style={{ marginRight: "10px" }} /> Dubai
         </ContactItem>
         <ContactItem>
           <MdPhoneAndroid style={{ marginRight: "10px" }} /> +971521220414

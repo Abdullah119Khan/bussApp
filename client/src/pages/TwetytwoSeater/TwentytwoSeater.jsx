@@ -197,9 +197,7 @@ const TwentytwoSeater = () => {
         </div>
         <div className="row mt-4">
           <div className="col-md-12">
-            <h5 className="fw-bold">
-              Rent a Mini Bus – Royal Crown Rent A Car
-            </h5>
+            <h5 className="fw-bold">Rent a Mini Bus – Rising Sun Rent A Car</h5>
           </div>
         </div>
         <div className="row mt-2">

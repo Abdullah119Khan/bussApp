@@ -239,7 +239,7 @@ const Sevenseater = () => {
                       Dubai, wedding Party car Event Transportation, Hotel
                       Transfer dubai Abu Dhabi, Sight-seeing sharjah & Dubai
                       Airport Transfer in UAE are some of the most demanded
-                      services offered by royal rider bus rental dubai
+                      services offered by Rising rider bus rental dubai
                     </td>
                     <td className="p-4">
                       JAPAN – toyota sienna, toyota previa and Honda odyssey to

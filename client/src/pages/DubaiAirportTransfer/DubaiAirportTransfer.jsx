@@ -25,7 +25,7 @@ const DubaiAirportTransfer = () => {
         <div className="row">
           <div className="col-md-12 text-center">
             <h4 className="fw-bold text-black">
-              Royal Crown Rental Dubai Airport Transfer Service
+              Rising Sun Rental Dubai Airport Transfer Service
             </h4>
           </div>
         </div>
@@ -66,7 +66,7 @@ const DubaiAirportTransfer = () => {
         <div className="row mb-4 m-auto">
           <div className="col-md-7 m-auto">
             <span className="">
-              For more than 12 years, Royal Rider Dubai Airport Transfer Agency
+              For more than 12 years, Rising Rider Dubai Airport Transfer Agency
               has been the preferred choice for traveling to and from Dubai’s
               international airport. We provide a professional and reliable
               service to both corporate clients and individuals, offering a
@@ -204,7 +204,7 @@ const DubaiAirportTransfer = () => {
         <div className="row mt-5">
           <div className="col-md-10 m-auto">
             <span>
-              Our mission at Royal Rider Bus Rental Dubai is to help you make
+              Our mission at Rising Rider Bus Rental Dubai is to help you make
               the most of your time with your senior loved ones. We understand
               that as we get older, it can be more difficult to get around and
               that it’s important that you feel safe and comfortable while
@@ -407,8 +407,8 @@ const DubaiAirportTransfer = () => {
         <div className="row mt-3">
           <div className="col-md-10 m-auto">
             <span>
-              Welcome to Royal Passengers Transport Rental Company! We are ready
-              to answer all your questions and, additionally, provide the
+              Welcome to Rising Passengers Transport Rental Company! We are
+              ready to answer all your questions and, additionally, provide the
               relevant tourist information about the COVID-19 situation in
               Dubai, and tourist attractions in Dubai or just give you some
               useful tips.
@@ -428,7 +428,7 @@ const DubaiAirportTransfer = () => {
           <div className="col-md-10 m-auto">
             <span>
               We operate private bus transfers between all major Airports in UAE
-              and Dubai. Royal Rider Bus and Auto Rental offer the best Airport
+              and Dubai. Rising Rider Bus and Auto Rental offer the best Airport
               Luxury Bus Rentals Services to and from Dubai, Sharjah & Abu Dhabi
               airports with excellent service at very reasonable prices.
             </span>
@@ -448,8 +448,8 @@ const DubaiAirportTransfer = () => {
           <div className="col-md-10 m-auto">
             <span>
               We are here in Dubai, Abu Dhabi UAE. We carry out ground
-              transportation in UAE Royal Rider Travel Agency is one of the most
-              prominent and genuine Tour operators in Dubai. We are here in
+              transportation in UAE Rising Rider Travel Agency is one of the
+              most prominent and genuine Tour operators in Dubai. We are here in
               Dubai – Abu Dhabi – UAE and providing the best ground
               transportation services for 7-seaters, 10-seaters, 12-seaters and
               15-20-22-25-30-33-50 seats Luxury vans and buses for rent
@@ -535,7 +535,7 @@ const DubaiAirportTransfer = () => {
             <span>
               When you’re traveling, there’s nothing worse than getting stuck in
               traffic or dealing with crowded public transportation. That’s why
-              Royal Rider Bus Rental Dubai is here to take care of your airport
+              Rising Rider Bus Rental Dubai is here to take care of your airport
               transfer needs—and make sure that you get to where you’re going in
               comfort and style.
             </span>

@@ -198,7 +198,7 @@ const SchoolBus = () => {
         <div className="row mt-3">
           <div className="col-md-10 m-auto">
             <span>
-              Welcome to Royal Crown Passengers Transport Rental Company! also
+              Welcome to Royal Rising Passengers Transport Rental Company! also
               call MS Bus rental in dubai, We are ready to answer all your
               questions and provide the relevant tourist information about the
               COVID-19 situation in Dubai, tourist attractions in Dubai or just

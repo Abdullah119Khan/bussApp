@@ -116,10 +116,10 @@ const FiftySeater = () => {
         <div className="row mt-4">
           <div className="col-md-12">
             <span>
-              Royal Crown offers 50 Seater Luxury Tourist Bus Rental With
-              Driver. Our fleet is always maintained, and our drivers are fully
-              trained. We can provide you with a variety of vehicles from small
-              passenger vans to luxury coaches and everything in between.
+              Rising Sun offers 50 Seater Luxury Tourist Bus Rental With Driver.
+              Our fleet is always maintained, and our drivers are fully trained.
+              We can provide you with a variety of vehicles from small passenger
+              vans to luxury coaches and everything in between.
             </span>
           </div>
         </div>
@@ -265,7 +265,7 @@ const FiftySeater = () => {
         <div className="row">
           <div className="col-md-12">
             <span>
-              Royal Crown offers services in the general region of commuter and
+              Rising Sun offers services in the general region of commuter and
               tourist coach rental, including daily, weekly, and monthly
               contracts on a per-day basis. Our other services include: Rent a
               bus Dubai – Rental coaches is a well-known name in Dubai and

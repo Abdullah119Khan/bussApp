@@ -99,7 +99,7 @@ const CorporateTranfer = () => {
           <div className="row">
             <div className="col-md-10 m-auto">
               <span>
-                Royal Crown Passenger Transport Rental is known as the leading
+                Rising Sun Passenger Transport Rental is known as the leading
                 rental bus company and passenger transport provider in Dubai,
                 Abu Dhabi and Sharjah, UAE. The company is known for its
                 top-class Bus transportation services in Sharjah. We are well
@@ -115,7 +115,7 @@ const CorporateTranfer = () => {
               <span>
                 Our exclusive charter bus rentals and luxury shuttle services in
                 Dubai, Abu Dhabi & Sharjah, UAE have been providing the finest
-                transportation for businesses and leisure. Royal Crown Passenger
+                transportation for businesses and leisure. Rising Sun Passenger
                 Transportation has earned a reputation for hiring new and
                 pre-owned vehicles and providing prompt transport from the
                 Airport to anywhere in Dubai. Luxury coaches provide safe
@@ -444,7 +444,7 @@ const CorporateTranfer = () => {
           <div className="row">
             <div className="col-md-10 mt-3 m-auto">
               <span>
-                Welcome to Royal Crown Passengers Transport Rental Company! We
+                Welcome to Rising Sun Passengers Transport Rental Company! We
                 are ready to answer all your questions regarding bus rental in
                 dubai bus rental in sharjah bus rentals in abu dhabi van rental
                 rent a bus party bus rental and, additionally, provide the
